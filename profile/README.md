@@ -1,13 +1,13 @@
 
-## ICT Division 2 - PDEU
+# ICT Division 2 - PDEU
 
 Welcome to the ICT Division 2 - PDEU GitHub repository! This platform serves as a collaborative space for students and tech enthusiasts of PDEU to share ideas, exchange code, and enhance their programming skills.
 
-📌 About the Group
+## 📌 About the Group
 
 The ICT Division 2 is a student-led initiative aimed at fostering a culture of learning, innovation, and knowledge sharing in the field of Information and Communication Technology (ICT). Our mission is to create a supportive community where members can collaborate on projects, improve their coding skills, and stay updated with the latest tech trends.
 
-🎯 Objectives
+## 🎯 Objectives
 
 💡 Knowledge Sharing – Discuss and explore new ideas in ICT and software development.
 
@@ -33,7 +33,7 @@ This repository will contain:
 
 🔹 Discussion threads on various tech topics
 
-🔗 How to Contribute
+## 🔗 How to Contribute
 
 We encourage all members to contribute to this repository. Here’s how you can get involved:
 
@@ -43,6 +43,6 @@ Make Your Changes – Add or update code, resources, or documentation.
 
 Submit a Pull Request – Once you're satisfied with your contribution, submit a pull request for review.
 
-📢 Stay Connected
+## 📢 Stay Connected
 
 Join our community discussions, participate in events, and collaborate on projects! If you have any questions, feel free to reach out.
