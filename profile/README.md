@@ -46,3 +46,6 @@ Submit a Pull Request – Once you're satisfied with your contribution, submit a
 ## 📢 Stay Connected
 
 Join our community discussions, participate in events, and collaborate on projects! If you have any questions, feel free to reach out.
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/VkXC8NP6Tc)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Fe6YVrOXuoZ7j4PQRxB2Ij)
