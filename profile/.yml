@@ -1,2 +1,0 @@
-- name: GitHub Organization Stats
-  uses: gr2m/org-stats-action@v1.0.5
