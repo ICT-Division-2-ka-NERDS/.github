@@ -1,1 +1,1 @@
-# ICT-Division-2-ka-NERDS
+# ICT-Division-2,3-ke-NERDS
