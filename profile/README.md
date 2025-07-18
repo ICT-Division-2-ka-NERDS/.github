@@ -1,5 +1,5 @@
 
-# ICT Division 2 - PDEU
+# ICT Division 2,3 - PDEU
 
 Welcome to the ICT Division 2 - PDEU GitHub repository! This platform serves as a collaborative space for students and tech enthusiasts of PDEU to share ideas, exchange code, and enhance their programming skills.
 
